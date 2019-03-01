@@ -65,5 +65,14 @@ body, html {
 	text-align: center;
 }
 
+.contact-section{
+	margin-top: 50px;
+	margin-bottom: 50px;
+	margin-left: 50px;
+}
+
+.contact-icons{
+	text-align: center;
+}
 
 
